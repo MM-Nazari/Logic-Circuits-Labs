@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "X:/Xilinx/Manteghi/Lab7/tb_adder_4bit_isim_beh.exe" -prj "X:/Xilinx/Manteghi/Lab7/tb_adder_4bit_beh.prj" "work.tb_adder_4bit" "work.glbl" 

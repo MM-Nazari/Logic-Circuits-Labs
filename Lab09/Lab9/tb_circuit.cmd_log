@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "X:/Xilinx/Lab9/tb_circuit.xst" -ofn "X:/Xilinx/Lab9/tb_circuit.syr" 

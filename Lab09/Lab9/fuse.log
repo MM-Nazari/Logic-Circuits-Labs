@@ -1,0 +1,22 @@
+Running: X:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o X:/Xilinx/Lab9/tb_circuit_isim_beh.exe -prj X:/Xilinx/Lab9/tb_circuit_beh.prj work.tb_circuit work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/Xilinx/Lab9/DFF.v" into library work
+Analyzing Verilog file "X:/Xilinx/Lab9/circuit.v" into library work
+Analyzing Verilog file "X:/Xilinx/Lab9/tb_circuit.v" into library work
+Analyzing Verilog file "X:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:835 - "X:/Xilinx/Lab9/circuit.v" Line 27: Too many parameters for module instance F3
+WARNING:HDLCompiler:835 - "X:/Xilinx/Lab9/circuit.v" Line 29: Too many parameters for module instance F5
+Completed static elaboration
+Compiling module DFF
+Compiling module circuit
+Compiling module tb_circuit
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 4 Verilog Units
+Built simulation executable X:/Xilinx/Lab9/tb_circuit_isim_beh.exe
+Fuse Memory Usage: 25956 KB
+Fuse CPU Usage: 1561 ms

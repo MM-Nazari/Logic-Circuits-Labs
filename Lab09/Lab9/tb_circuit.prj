@@ -1,0 +1,3 @@
+verilog work "DFF.v"
+verilog work "circuit.v"
+verilog work "tb_circuit.v"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="90" delta="old" ><arg fmt="%s" index="1">&quot;circuit.v&quot; line 27 </arg>Too many parameter assignments in instance &apos;<arg fmt="%s" index="2">F3</arg>&apos; of module &apos;<arg fmt="%s" index="3">DFF</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="90" delta="old" ><arg fmt="%s" index="1">&quot;circuit.v&quot; line 29 </arg>Too many parameter assignments in instance &apos;<arg fmt="%s" index="2">F5</arg>&apos; of module &apos;<arg fmt="%s" index="3">DFF</arg>&apos;
+</msg>
+
+</messages>
+

@@ -1,0 +1,4 @@
+verilog work "DFF.v"
+verilog work "circuit.v"
+verilog work "tb_circuit.v"
+verilog work "X:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

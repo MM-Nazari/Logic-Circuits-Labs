@@ -1,0 +1,30 @@
+Command line:
+   fsm_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61978
+
+Tue Apr 25 23:18:12 2023
+
+
+ Elaboration Time: 0.3125 sec
+
+ Current Memory Usage: 5154.51 Meg
+
+ Total Signals          : 18
+ Total Nets             : 27
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 116
+In process FSM.vCont_34_0 
+ FATAL ERROR:ISim: This application has discovered an exceptional condition from which it cannot recover. Process will terminate. To search for possible resolutions to this issue, refer to the Xilinx answer database by going to http://www.xilinx.com/support/answers/index.htm and search with keywords 'ISim' and 'FATAL ERROR'. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.
+
+ Total Simulation Time: 1.1875 sec
+
+ Current Memory Usage: 5190.48 Meg
+
+Tue Apr 25 23:18:25 2023
+

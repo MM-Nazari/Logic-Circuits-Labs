@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 34: Target &lt;<arg fmt="%s" index="1">state</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 35: Target &lt;<arg fmt="%s" index="1">en_right</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 36: Target &lt;<arg fmt="%s" index="1">en_left</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/system.v" Line 37: Target &lt;<arg fmt="%s" index="1">en_left</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 34: Target &lt;<arg fmt="%s" index="1">state</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 35: Target &lt;<arg fmt="%s" index="1">en_right</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/FSM.v" Line 36: Target &lt;<arg fmt="%s" index="1">en_left</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/DFF.v" Line 39: Target &lt;<arg fmt="%s" index="1">O</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/DFF.v" Line 40: Target &lt;<arg fmt="%s" index="1">O</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/DFF.v" Line 41: Target &lt;<arg fmt="%s" index="1">O</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"X:/Xilinx/Manteghi/lab 10/FSM/DFF.v" Line 42: Target &lt;<arg fmt="%s" index="1">O</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+</messages>
+

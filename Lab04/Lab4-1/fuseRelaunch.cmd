@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "X:/Xilinx/Manteghi/Lab4-1/Lab41_isim_beh.exe" -prj "X:/Xilinx/Manteghi/Lab4-1/Lab41_beh.prj" "work.Lab41" "work.glbl" 

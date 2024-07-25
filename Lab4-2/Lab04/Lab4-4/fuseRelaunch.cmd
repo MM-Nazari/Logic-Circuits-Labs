@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "X:/Xilinx/Lab4-4/paritiy3_gen_sop_isim_beh.exe" -prj "X:/Xilinx/Lab4-4/paritiy3_gen_sop_beh.prj" "work.paritiy3_gen_sop" "work.glbl" 

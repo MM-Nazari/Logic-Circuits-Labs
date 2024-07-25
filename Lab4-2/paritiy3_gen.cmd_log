@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "X:/Xilinx/Lab4-2/paritiy3_gen.xst" -ofn "X:/Xilinx/Lab4-2/paritiy3_gen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 paritiy3_gen.ngc paritiy3_gen.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o paritiy3_gen_map.ncd paritiy3_gen.ngd paritiy3_gen.pcf 
+par -w -intstyle ise -ol high -t 1 paritiy3_gen_map.ncd paritiy3_gen.ncd paritiy3_gen.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml paritiy3_gen.twx paritiy3_gen.ncd -o paritiy3_gen.twr paritiy3_gen.pcf 

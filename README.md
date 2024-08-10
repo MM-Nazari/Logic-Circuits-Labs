@@ -22,23 +22,23 @@ The Implemented Project is in [Lab05 Project](./Lab05).
 
 ### Lab06: Comparator
 The Pre Report for this Part is provided in the [Lab06 Pre Report PDF](./Lab06/پیش%20گزارش%20آزمایش%20۶%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab06 Project](./Lab06).
+The Implemented Project is in [Lab06 Project](./Lab06/lab6).
 
 ### Lab07: Full Adder, Adder-Subtractor
 The Pre Report for this Part is provided in the [Lab07 Pre Report PDF](./Lab07/پیش%20گزارش%20آزمایش%20۷%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab07 Project](./Lab07).
+The Implemented Project is in [Lab07 Project](./Lab07/Lab7).
 
 ### Lab08:ALU
 The Pre Report for this Part is provided in the [Lab08 Pre Report PDF](./Lab08/پیش%20گزارش%20آزمایش%20۸%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab08 Project](./Lab08).
+The Implemented Project is in [Lab08 Project](./Lab08/Lab8).
 
 ### Lab09: Sequentioal logic units, Flip Flop
 The Pre Report for this Part is provided in the [Lab09 Pre Report PDF](./Lab09/پیش%20گزارش%20آزمایش%20۹%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab09 Project](./Lab09).
+The Implemented Project is in [Lab09 Project](./Lab09/Lab9).
 
 ### Lab10: FSM
 The Pre Report for this Part is provided in the [Lab10 Pre Report PDF](./Lab10/پیش%20گزارش%20آزمایش%20۱۰%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab10 Project](./Lab10).
+The Implemented Project is in [Lab10 Project](./Lab10/Lab%2010/FSM).
 
 ## IDE
 This project is developed using Xilinx ISE Design Suite.

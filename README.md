@@ -9,7 +9,7 @@
 For a detailed Labs description, please refer to the [Labs Description PDF](./LogicLabManual%20(1).pdf).
 
 ### Lab03
-The Pre Report for this Part is provided in the [Lab03 Pre Report PDF](./Lab01/MohammadMehdiNazari_9931061_Lab1.pdf).
+The Pre Report for this Part is provided in the [Lab03 Pre Report PDF](./Lab03/پیش%20گزارش%20آزمایش%20۳%20منطقی%20-%20۹۹۳۱۰۶۱.pdf).
 
 ### Lab04
 For a detailed Project description, please refer to the [Lab02 Description PDF](./Lab02/Manual%202-1.pdf). <br />
